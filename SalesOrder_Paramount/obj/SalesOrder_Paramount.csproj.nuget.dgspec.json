@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\exd_ayesha\\source\\repos\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj": {}
+    "C:\\Users\\exd_ayesha\\Documents\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\exd_ayesha\\source\\repos\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj": {
+    "C:\\Users\\exd_ayesha\\Documents\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\exd_ayesha\\source\\repos\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj",
+        "projectUniqueName": "C:\\Users\\exd_ayesha\\Documents\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj",
         "projectName": "SalesOrder_Paramount",
-        "projectPath": "C:\\Users\\exd_ayesha\\source\\repos\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj",
+        "projectPath": "C:\\Users\\exd_ayesha\\Documents\\SalesOrder_Paramount\\SalesOrder_Paramount\\SalesOrder_Paramount.csproj",
         "packagesPath": "C:\\Users\\exd_ayesha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\exd_ayesha\\source\\repos\\SalesOrder_Paramount\\SalesOrder_Paramount\\obj\\",
+        "outputPath": "C:\\Users\\exd_ayesha\\Documents\\SalesOrder_Paramount\\SalesOrder_Paramount\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

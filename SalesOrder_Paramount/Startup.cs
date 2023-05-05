@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using SalesOrder_Paramount.Models.Setting;
+using SalesOrder_Paramount.Service;
 
 namespace SalesOrder_Paramount
 {
@@ -27,6 +28,9 @@ namespace SalesOrder_Paramount
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<Setting>(Configuration.GetSection("SAP"));
+
+            services.AddSingleton<DIService>();
+            services.AddHostedService(sp => sp.GetRequiredService<DIService>());
             services.AddControllers();
         }
 

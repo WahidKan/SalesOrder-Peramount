@@ -1,0 +1,8 @@
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\SalesOrder_Paramount.exe
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\SalesOrder_Paramount.dll
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\SalesOrder_Paramount.deps.json
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\SalesOrder_Paramount.runtimeconfig.json
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\SalesOrder_Paramount.pdb
+C:\Users\exd_arif\Documents\SalesOrder_Paramount\SalesOrder_Paramount\obj\Release\netcoreapp3.1\PubTmp\Out\Interop.SAPbobsCOM.dll
